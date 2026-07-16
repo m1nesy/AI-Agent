@@ -7,7 +7,7 @@ from fastapi import FastAPI, Request, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from token_builder import AccessToken, PRIVILEGES
 from utils import read_files, assert_val, response_wrapper, Signer
-
+print("HELLO")
 app = FastAPI()
 
 # 允许跨域 (替代 koa2-cors)

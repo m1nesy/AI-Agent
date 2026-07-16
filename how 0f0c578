@@ -1,0 +1,13 @@
+[1mdiff --git a/Server/scenes/Custom.json b/Server/scenes/Custom.json[m
+[1mindex 2bc2987..0602bcd 100644[m
+[1m--- a/Server/scenes/Custom.json[m
+[1m+++ b/Server/scenes/Custom.json[m
+[36m@@ -4,7 +4,7 @@[m
+     "name": "自定义助手"[m
+   },[m
+   "AccountConfig": {[m
+[31m-    "accessKeyId": "YOUR_ACCESS_KEY_ID",[m
+[32m+[m[32m    "accessKeyId": "********",[m
+     "secretKey": "YOUR_SECRET_KEY"[m
+   },[m
+   "RTCConfig": {[m
